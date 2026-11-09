@@ -41,3 +41,13 @@
         </plugins>
     </build>
 </project>
+
+/*
+PowerShell commands to run the project:
+
+$env:JAVA_HOME = "C:\Program Files\Eclipse Adoptium\jdk-17.0.21.9-hotspot"
+$env:Path = "$env:USERPROFILE\Tools\apache-maven-3.10.0\bin;$env:JAVA_HOME\bin;$env:Path"
+cd "C:\java project"
+Write-Output "Open the app at http://localhost:8081"
+mvn spring-boot:run "-Dspring-boot.run.arguments=--server.port=8081"
+*/
