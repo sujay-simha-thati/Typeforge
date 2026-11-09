@@ -4,6 +4,8 @@ Here is a professional project summary for **TYPEFORGE**, tailored specifically 
 
 # Project Summary: TYPEFORGE
 
+PROJECT GLOBAL LINK :- https://typeforge-8ll9.onrender.com/
+
 ### Tagline: Master Your Typing. Measure Your Speed. Improve Every Day.
 
 ## 1. Executive Overview
